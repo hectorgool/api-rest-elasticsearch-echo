@@ -1,0 +1,10 @@
+
+https://github.com/gin-gonic/gin/issues/29
+
+gofmt -w yourcode.go
+
+#recursively
+go fmt ./...
+
+Referencias:
+https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa
